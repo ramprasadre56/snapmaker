@@ -76,6 +76,14 @@ Popular, but non-commercial only. Message the designer for permission before con
 
 Print one sample of each first, then photograph it, measure it and weigh it for the listing.
 
-## 5. Files in this folder
+## 5. Files
+**In this repo:**
 - `listings.csv` — Amazon listing drafts (title, bullets, keywords, price, HSN) for each shortlisted product.
-- `3mf/` — the 3MF files whose licenses allow sharing them here (group A and Shizu), each credited in `3mf/CREDITS.md`. Group B and C files are **not** stored here, because their licenses don't allow re-sharing; download them from the links above.
+- `3mf/` — the 3MF files whose licenses allow sharing them here (group A and Shizu), each credited in `3mf/CREDITS.md`.
+
+**Kept only on the NexGen 3D Works PC** (`Desktop\ramprasadre56\snapmaker\`), because their licenses don't allow re-sharing them in a public repo:
+- `1_sellable-now/` — A1–A4 (same files as `3mf/` here)
+- `2_commercial-license-needed/` — B1–B7: 11 ready-to-print U1 3MFs, including both Vanta sizes, both Fado sizes, and the Drift Lamp's body, connectors and shade
+- `3_personal-use-only/` — C1–C6: 7 U1 3MFs, including the lampshade's accessories
+
+All 22 files were checked as valid Snapmaker U1 projects. None has been printed.
